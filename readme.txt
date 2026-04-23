@@ -84,3 +84,9 @@ Yes. The JavaScript uses a MutationObserver to initialise signature fields that 
 
 = 2.0.0 =
 Major rewrite. No external JS dependencies. Better theme and caching compatibility.
+
+----------------------------------
+Developed with ❤️ by Michael Kanda
+https://designare.at
+
+
